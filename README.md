@@ -7,8 +7,7 @@
 
 **ASETA TÄNNE RYHMÄN JÄSENTEN NIMET!**: *Opiskelijan nimi tai Opiskelijoiden nimet sekä molempien opiskelijoiden JAMK-opiskelijatunnukset*.
 
-* *Matti Meikäläinen (ABC1234)*
-* *Kirsi Kerneli (BCD1234)*
+* *Jere Soininen (AB6802)*
 
 Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter Notebook**-tiedostoina. 
 
@@ -21,8 +20,8 @@ Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter
 
 
     # Kirjoita tähän tietosi!
-    student_name = 'Opiskelijan nimi tai Opiskelijoiden nimet'  # Oma nimesi
-    student_id = 'JAMK-opiskelijatunnus tai JAMK-opiskelijatunnukset' # Oma opiskelijatunnuksesi JAMK:ssa
+    student_name = 'Jere Soininen'  # Oma nimesi
+    student_id = 'AB6802' # Oma opiskelijatunnuksesi JAMK:ssa
 
 ### Parityönä?
 
