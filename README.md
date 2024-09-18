@@ -20,8 +20,8 @@ Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter
 
 
     # Kirjoita tähän tietosi!
-    student_name = 'Jere Soininen'  # Oma nimesi
-    student_id = 'AB6802' # Oma opiskelijatunnuksesi JAMK:ssa
+    student_name = 'Jere Soininen'
+    student_id = 'AB6802'
 
 ### Parityönä?
 
